@@ -1,1 +1,27 @@
+header {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
 
+header img {
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 40%;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul li {
+  list-style-type: none;
+  overflow: hidden;
+  display: inline-block;
+  margin: 7px;
+  padding: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
